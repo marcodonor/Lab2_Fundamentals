@@ -1,0 +1,6 @@
+print("Lab 1: Version Control")
+print("Author: Marco Donor")
+print("Student ID: TUPM-25-0294")
+print("Class Section: 1A")
+print("Login Feature Enabled")
+print ("Hello from main branch") 
